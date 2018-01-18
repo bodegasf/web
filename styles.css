@@ -1,0 +1,127 @@
+body {
+ margin: 0;
+ padding: 0;
+}
+
+#background
+{
+  left: 0px;
+  top: 0px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px;
+  height: 800px;
+  overflow: hidden;
+  z-index:0;
+ }
+
+#columbus
+{
+  left: 554px;
+  top: 535px;
+  position: absolute;
+  width: 173px;
+  height: 36px;
+  z-index:1;
+}
+
+#Backgroundcopy
+{
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  width: 1280px;
+  height: 800px;
+  z-index:1;
+}
+
+#openTuESun10am10Pm
+{
+  left: 538px;
+  top: 602px;
+  position: absolute;
+  width: 206px;
+  height: 11px;
+  z-index:2;
+}
+
+#contact
+{
+   left: 458px; 
+   top: 654px; 
+   position: absolute; 
+   width: 365px;
+   height: 35px;
+   z-index:3;
+}
+
+#vIEWMenu
+{
+  left: 598px;
+  top: 384px;
+  position: absolute;
+  width: 87px;
+  height: 11px;
+  z-index:3;
+}
+
+#instagramicon
+{
+  left: 539px;
+  top: 459px;
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  z-index:5;
+}
+
+#facebookicon
+{
+  left: 631px;
+  top: 460px;
+  position: absolute;
+  width: 19px;
+  height: 36px;
+  z-index:6;
+}
+
+#yelpicon
+{
+  left: 705px;
+  top: 461px;
+  position: absolute;
+  width: 27px;
+  height: 35px;
+  z-index:7;
+}
+
+#winebeercoffeefoodca
+{
+  left: 492px;
+  top: 272px;
+  position: absolute;
+  width: 297px;
+  height: 46px;
+  z-index:8;
+}
+
+#bodegalogo
+{
+  left: 520px;
+  top: 82px;
+  position: absolute;
+  width: 240px;
+  height: 133px;
+  z-index:9;
+}
+
+#tripleb
+{
+  left: 621px;
+  top: 82px;
+  position: absolute;
+  width: 46px;
+  height: 74px;
+  z-index:10;
+}
