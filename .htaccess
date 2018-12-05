@@ -1,4 +1,3 @@
-RewriteEngine On
 #First rewrite any request to the wrong domain to use the correct one (here www.)
 RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
