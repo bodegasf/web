@@ -28,11 +28,9 @@ body {
 
 #privateinquiries
 {
-  left: 320px;
+  left: 300px;
   top: 575px;
   position: absolute;
-  width: 173px;
-  height: 36px;
   z-index:1;
 }
 
